@@ -11,15 +11,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token",
-            "value": ""
+            "value": "1512051109:AAGV3pfrmaEcPPGxaGH1-owPkBRhn3fX7b8"
         },
         "START_MESSAGE": {
             "description": "",
-            "value": "*Hi ! I am a simple torrent searcher using @sjprojects's Torrent Searcher api.\n\n\nMade with 🐍 by @KeralasBots*"
+            "value": "*Hi ! I am a simple torrent searcher using  Torrent Searcher api.\n\n\nMade in py🐍*"
         },
         "FOOTER_TEXT": {
             "description": "",
-            "value": "*Made with ❤️ by @KeralasBots*",
+            "value": "*Made with ❤️ by @thestarkarmy13260*",
             "required": false
         }
     },
